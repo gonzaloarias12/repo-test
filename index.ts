@@ -1,7 +1,7 @@
 import { Cosas } from "./cosas";
 
 function main() {
-  console.log();
+  console.log("hola");
 }
 
 main();
